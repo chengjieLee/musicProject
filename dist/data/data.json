@@ -1,0 +1,28 @@
+[{
+        "images": "/source/mjx.jpg",
+        "audios": "/source/mjx.mp3",
+        "song": "眉间雪",
+        "album": "热门华语",
+        "singer": "HITA",
+        "duration": 264,
+        "isLike": true
+    },
+    {
+        "images": "/source/ltjx.jpg",
+        "audios": "/source/ltjx.mp3",
+        "song": "梨棠煎雪",
+        "album": "腐草为萤",
+        "singer": "银临",
+        "duration": 245,
+        "isLike": false
+    },
+    {
+        "images": "/source/zqdy.jpg",
+        "audios": "/source/zqdy.mp3",
+        "song": "执琴东游",
+        "album": "执琴东游",
+        "singer": "萧忆情",
+        "duration": 281,
+        "isLike": true
+    }
+]
